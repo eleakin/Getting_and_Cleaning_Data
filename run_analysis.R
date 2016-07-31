@@ -1,6 +1,6 @@
 ############################################################################################
 ## Coursera Getting and Cleaning Data Course Project
-## Eric L> Eakin
+## Eric L. Eakin
 ## 2016-07-31
 
 # runAnalysis.r File Description:

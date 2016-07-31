@@ -1,7 +1,7 @@
 > Written with [StackEdit](https://stackedit.io/).
 > # My Code Book
 
-This code book summarizes the resulting data fields in `tidy.txt`.
+This code book summarizes the resulting data fields in the `tidy.txt` output file.
 
 ## Identifiers
 
